@@ -7,6 +7,8 @@
 
 ## 1. Data Set
 
-![image](https://user-images.githubusercontent.com/73769046/156030135-8803b925-f4af-40cf-b330-d021bf2000f3.png)
+2개의 열로 구성
+
 type : MBTI
+
 text : 사용한 400개의 단어
