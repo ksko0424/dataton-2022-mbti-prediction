@@ -44,6 +44,4 @@ Test Data : 9,337건 / 400개 단어 총 1컬럼 구성
     
 ---
 
-최종 정확도 순위 1위 (15팀)
-![image](https://user-images.githubusercontent.com/73769046/156033564-64685173-54ba-483e-9807-a67192cfa87e.png){: width="100" height="100"}
-
+최종 정확도 순위 1위 (93.01%, 15팀)
