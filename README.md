@@ -41,3 +41,9 @@ Test Data : 9,337건 / 400개 단어 총 1컬럼 구성
     LinearSVC의 정확도가 가장 높아 Linear SVC를 모델로 채택
 
     LinearSVC 하이퍼파라미터 C값 조정 : C=0.475에서 정확도가 가장 높아 C=0.475로 하이퍼파라미터 채택
+    
+---
+
+최종 정확도 순위 1위 (15팀)
+![image](https://user-images.githubusercontent.com/73769046/156033564-64685173-54ba-483e-9807-a67192cfa87e.png)
+
