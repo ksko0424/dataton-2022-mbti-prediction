@@ -7,11 +7,11 @@
 
 ## 1. Data Set
 
-2개의 열로 구성
+Train Data : 74,357건 / MBTI, 400개 단어 총 2컬럼 구성
 
-type : MBTI
+Test Data : 9,337건 / 400개 단어 총 1컬럼 구성
 
-text : 사용한 400개의 단어
+데이터 셋 내 MBTI 분포는 균등하지 않음.
 
 ## 2. Data preprocessing
 
