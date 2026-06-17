@@ -1,4 +1,4 @@
-# Dataton_Competition_2022
+# dataton-2022-mbti-prediction
 
 2022 데이터톤 경진대회 (2022.02.23 ~ 2022.02.25) 대상 수상 프로젝트입니다.
 
@@ -80,4 +80,4 @@ LinearSVC의 주요 하이퍼파라미터인 `C` 값을 조정했습니다.
 
 ## Related Repository
 
-- Poster paper version: <https://github.com/ksko0424/Predicting_MBTI_for_Internet_Users>
+- Poster paper version: <https://github.com/ksko0424/mbti-text-classification>
